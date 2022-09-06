@@ -1,10 +1,10 @@
 <h1 align="center">
   <b>uFO</b>
 </h1>
-
+<div align="center">
 Heya! I'm uFO, a student currently living in Agadir, Morocco. 
 and learning programming through small projects on the side.
-
+</div>
 <br>
 
 <p>
