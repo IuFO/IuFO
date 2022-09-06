@@ -35,14 +35,14 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="https://open.spotify.com/user/tphtim49uerenlhdxeb1lbqu9">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://api.spotify.com/v1/me/player/currently-playing">
   </a>
 </div>
 
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/tphtim49uerenlhdxeb1lbqu9">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+    <img src="https://api.spotify.com/v1/me/player/currently-playing?scan=true&theme=dark" width="240px">
   </a>
 </div>
 -->
