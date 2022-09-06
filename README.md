@@ -39,13 +39,13 @@ if __name__ == '__main__':
   </a>
 </div>
 
-<!--
+
 <div align="center">
   <a href="https://open.spotify.com/user/tphtim49uerenlhdxeb1lbqu9">
     <img src="https://api.spotify.com/v1/me/player/currently-playing?scan=true&theme=dark" width="240px">
   </a>
 </div>
--->
+
 
 ## My Statistics
 
