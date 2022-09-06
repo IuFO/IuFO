@@ -16,7 +16,7 @@ and learning programming through small projects on the side.
 </div>
 </p>
 
-<p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=IuFO&label=Profile%20views&color=282828&style=flat" alt="umrange" /> </p>
+<p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=IuFO&label=Profile%20views&color=282828&style=flat" alt="umrange" /> </div> </p>
 
 ```python
 class uFO():
