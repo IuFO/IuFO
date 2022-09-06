@@ -13,7 +13,7 @@ and learning programming through small projects on the side.
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umrange&show_icons=true&locale=en&layout=compact" alt="umrange" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umrange&show_icons=true&locale=en&layout=compact" alt="umrange" />
 </div>
 </p>
 
