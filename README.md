@@ -13,9 +13,10 @@ and learning programming through small projects on the side.
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://komarev.com/ghpvc/?username=IuFO&label=Profile%20views&color=282828&style=flat" alt="umrange" />
 </div>
 </p>
+
+<p> <img src="https://komarev.com/ghpvc/?username=IuFO&label=Profile%20views&color=282828&style=flat" alt="umrange" /> </p>
 
 ```python
 class uFO():
