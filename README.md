@@ -53,9 +53,7 @@ if __name__ == '__main__':
 
 
 **Now Playing** on Spotify <br><br>
-<!-- [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nufwbt70xpxz6e3xrp9dwixdw&count=5&width=400)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw)-->
-<p> <div align="center"> [![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw) <br> </dir> </p>
-<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nufwbt70xpxz6e3xrp9dwixdw&count=3)-->
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=	tphtim49uerenlhdxeb1lbqu9&count=5&width=400)](https://open.spotify.com/user/	tphtim49uerenlhdxeb1lbqu9)
 
 
 ## My Statistics
