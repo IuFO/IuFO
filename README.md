@@ -60,6 +60,10 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=IuFO&theme=gruvbox&background=282828&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=IuFO&theme=gruvbox"/>
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
+</div>
 
 Last Edited on: 9/4/2022
