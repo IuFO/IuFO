@@ -35,7 +35,7 @@ if __name__ == '__main__':
 ```
 
 ### 🛠 &nbsp;Tech Stack
-<div align="center">
+
       ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
       ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
       ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -50,7 +50,7 @@ if __name__ == '__main__':
       ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
       ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
       ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-</div>
+
 
 
 **Now Playing** on Spotify <br><br>
