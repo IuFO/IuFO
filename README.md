@@ -52,10 +52,6 @@ if __name__ == '__main__':
 
 
 
-**Now Playing** on Spotify <br><br>
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tphtim49uerenlhdxeb1lbqu9&count=5&width=400)](https://open.spotify.com/user/tphtim49uerenlhdxeb1lbqu9)
-
-
 ## My Statistics
 
 <br/>
