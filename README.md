@@ -23,7 +23,7 @@ and learning programming through small projects on the side.
 class uFO():
     
   def __init__(self):
-    self.name = "Hamza";
+    self.name = "Youssef";
     self.username = "uFO";
     self.location = "Agadir, Morocco";
   
